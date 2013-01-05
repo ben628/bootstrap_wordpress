@@ -10,6 +10,7 @@ Using bootstrap_wordpress
 
 Download the latest version of the repository, and place the bootstrap and bootstrap-child folders into your theme folder in your Wordpress install.
 
-Rename bootstrap-child to the name of your new theme, and edit style.css and updated the header information to reflect your new theme name and information.
+Rename bootstrap-child to the name of your new theme, and edit style.css and update the header information - specifically the Theme name/url and the Author information.
 
-Activate the new child theme in Wordpress, and start modifying it to meet your needs.
+Activate the new child theme in Wordpress, and start modifying it to meet your needs.  Keep in mind that the purpose of this theme is not Wordpress bells and whistles, but rather a very clean theme that includes Bootstrap and Responsive functionality.  If you are looking for a full featured theme, you probably want to look somewhere else.
+
