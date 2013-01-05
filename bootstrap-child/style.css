@@ -1,0 +1,13 @@
+/*
+Theme Name: Bootstrap Child
+Theme URI: http://trioniclabs.com
+Description: Sample Bootstrap Child Theme
+Author: Ed Burns
+Author URI: http://trioniclabs.com 
+Version: 1.0
+Template: bootstrap
+*/
+
+@import url("../bootstrap/style.css");
+
+/* Add your theme styles here */

@@ -1,0 +1,11 @@
+/*
+Theme Name: Bootstrap Wordpress
+Theme URI: http://trioniclabs.com
+Description: Bootstrap Basic Theme
+Author: Ed Burns
+Author URI: http://trioniclabs.com 
+Version: 1.0
+*/
+
+@import url("css/bootstrap.min.css");
+@import url("css/bootstrap-responsive.min.css");
